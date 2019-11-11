@@ -14,7 +14,7 @@ end
 # using director_data as input
 def gross_for_director(director_data)
   totals = director_data[:worldwide_gross]
-  if money 
+  if money in 
   
   #pp director_data
   
