@@ -13,6 +13,9 @@ end
 # Find a way to accumulate the :worldwide_grosses and return that Integer
 # using director_data as input
 def gross_for_director(director_data)
-  pp director_data
+  totals = director_data[:worldwide_gross]
+  if money 
+  
+  #pp director_data
   
 end
